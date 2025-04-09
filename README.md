@@ -195,23 +195,18 @@ plt.show()
 ```
 
 # OUTPUT
-```
-![Screenshot 2025-04-09 162446](https://github.com/user-attachments/assets/7870205a-19ea-4724-a437-8870d64c402a)
-```
-```
-![Screenshot 2025-03-28 140143](https://github.com/user-attachments/assets/6f4e86e4-dadb-4ffe-818d-5a5176837cd9)
-```
-```
-![Screenshot 2025-03-28 140217](https://github.com/user-attachments/assets/44f8513a-0d13-402c-b17f-13eaa2a26be2)
-```
-```
-![Screenshot 2025-03-28 140237](https://github.com/user-attachments/assets/fe629394-322f-4be2-874b-6f2b62402b0f)
-```
+Ideal sampling
+![Screenshot 2025-04-09 183620](https://github.com/user-attachments/assets/b73af3c3-a6b2-4bc4-b60d-0c327a36ed49)
+![Screenshot 2025-04-09 183628](https://github.com/user-attachments/assets/13778864-67b7-4a45-80a0-93e9e81cdcd5)
 
+Natural sampling
+![Screenshot 2025-04-09 183846](https://github.com/user-attachments/assets/089d1298-88f8-47c0-8006-6e4bf89b2f1d)
 
+Flat-top sampling
+![Screenshot 2025-04-09 162446](https://github.com/user-attachments/assets/822e5fba-d41a-450f-b942-99854b09b2e1)
 
- 
 # RESULT / CONCLUSIONS
 ```
-Thus the simulation of various types of sampling such as i) Ideal Sampling ii) Natural Sampling iii)Flat Top Sampling were verified
+Thus the simulation of various types of sampling such as i) Ideal Sampling ii) Natural Sampling iii)Flat Top Sampling were verified.
+```
 
